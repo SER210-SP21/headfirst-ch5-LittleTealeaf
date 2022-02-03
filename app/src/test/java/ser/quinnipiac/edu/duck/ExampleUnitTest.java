@@ -1,4 +1,4 @@
-package ser.quinnipiac.edu.chapter5demo;
+package ser.quinnipiac.edu.duck;
 
 import org.junit.Test;
 

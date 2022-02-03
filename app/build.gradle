@@ -6,7 +6,7 @@ android {
     compileSdk 32
 
     defaultConfig {
-        applicationId "ser.quinnipiac.edu.chapter5demo"
+        applicationId "ser.quinnipiac.edu.duck"
         minSdk 26
         targetSdk 32
         versionCode 1

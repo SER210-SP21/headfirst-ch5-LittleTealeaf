@@ -1,6 +1,3 @@
 <resources>
-    <string name="app_name">Chapter 5 demo</string>
-    <string name="button_send_text">Send</string>
-    <string name="edittext_message_hint">Message</string>
-    <string name="edittext_to_hint">To</string>
+    <string name="app_name">Duck</string>
 </resources>
